@@ -119,7 +119,7 @@ If you find something I missed, prove me wrong — I’ll update.
 ## sample code
 
 See `src/`:
-- `cl.cs`: generated RPC stubs
-- `program.cs`: harness to resolve endpoints and call opnum 1
+- `Cl.cs`: generated RPC stubs
+- `Program.cs`: harness to resolve endpoints and call opnum 1
 
 Requires running as the target user or legitimate impersonation.
